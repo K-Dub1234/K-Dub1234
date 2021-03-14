@@ -1,14 +1,11 @@
-# Hi there 👋
-## Its me, K-Dub1234
-### A few things to know...
+ 
+<h1> Hi there </h1> 
+<h2> 👋 Its me, K-Dub1234 </h2> 
+<h3> A few things to know... </h3> 
 
-#### Pronouns: He/His/Him
-#### Preferred language: Python
-#### Working for: @Doosy-project
-#### Favorite music: Alternative Electronic
-#### Favorite place: GitHub, of cource
-#### Travels: The UK, New Zealand, The US, Morocco, Spain, Cyberspace
-#### Interests: Cryptocurrencys, White Hat Hacking, [Music](https://soundcloud.com/dpbskt) making, Python
-
-# Look at this:
-![d](https://user-images.githubusercontent.com/378023/89412096-6f759d80-d761-11ea-8c57-84b30ef3f2b1.png)
+<h4> Pronouns: He/His/Him </h4> 
+<h4> Preferred languages: Python, C++, JavaScript, HTML </h4> 
+<h4> Favorite music: Alternative Electronic </h4> 
+<h4> Favorite place: GitHub, of course </h4> 
+<h4> Travels: The UK, New Zealand, The US, Morocco, Spain, Cyberspace </h4> 
+<h4> Interests: Cryptocurrencys, White Hat Hacking, [Music](https://soundcloud.com/dpbskt) making, Python </h4> 
